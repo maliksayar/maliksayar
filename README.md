@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Suru  
+# Hi there 👋, I'm Sayar Malik 
 
 ## 🚀 About Me  
 I’m a passionate **Software Developer** skilled in **Web Development, Backend Engineering, and Mobile Applications**.  
