@@ -30,5 +30,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maliksayar&layout=compact&theme=radical)
 
 ---
-
-⭐️ From [maliksayar](https://github.com/maliksayar)
